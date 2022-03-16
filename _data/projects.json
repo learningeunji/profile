@@ -1,9 +1,9 @@
 [
     {
         "image": "assets/img/projects/project1.jpg",
-        "title": "My Title 01",
+        "title": "웹 스크래핑 - 네이버 뉴스: 경제",
         "description": "My Description 01",
-        "link": "#"
+        "link": "https://drive.google.com/file/d/1upwW-vy3qtXDAvelCvKGBSN_Z0dk0Itl/view?usp=sharing"
     },
     {
         "image": "assets/img/projects/project2.jpg",
